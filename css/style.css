@@ -15,7 +15,7 @@ body {
     color:#EB593C;
 }
 
-.navbar-default {
+.navbar-default, section.success a:hover {
     background-color:#EB593C;
 }
 
@@ -23,4 +23,13 @@ body {
   color: #ffffff;
   background-color: #C3543E;
   text-decoration: overline;
+}
+
+a:hover, .navbar-default, .navbar-brand:hover, .navbar-default, .navbar-brand:focus {
+  color:white !important;
+  text-decoration:underline !important;
+}
+
+.btn{
+  color:white !important;
 }
