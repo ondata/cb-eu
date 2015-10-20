@@ -1,0 +1,26 @@
+header {
+background: white;
+} 
+
+div#cbmap {
+    padding-top: 110px;
+}
+
+header .container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+    color:#EB593C;
+}
+
+.navbar-default {
+    background-color:#EB593C;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #ffffff;
+  background-color: #C3543E;
+  text-decoration: overline;
+}
