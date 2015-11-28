@@ -11,10 +11,6 @@ header .container {
   padding-bottom: 20px;
 }
 
-body {
-    color:#EB593C;
-}
-
 .navbar-default, section.success a:hover {
     background-color:#EB593C;
 }
@@ -32,4 +28,25 @@ a:hover, .navbar-default, .navbar-brand:hover, .navbar-default, .navbar-brand:fo
 
 .btn{
   color:white !important;
+}
+
+/* media partners */
+
+#partners li {
+  list-style:none;
+  margin:10px;
+}
+
+#partners ul {
+  padding:0px
+}
+
+#partners li img {
+  max-height:40px;
+}
+
+p {
+  font-size:    20px !important;
+  line-height: 1.58 !important;
+  font-family: Georgia;
 }
