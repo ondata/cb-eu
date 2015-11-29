@@ -50,3 +50,7 @@ p {
   line-height: 1.58 !important;
   font-family: Georgia;
 }
+
+section {
+    padding:50px;
+}
