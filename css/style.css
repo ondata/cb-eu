@@ -21,7 +21,7 @@ header .container {
   text-decoration: overline;*/
 }
 
-a:hover, .navbar-default, .navbar-brand:hover, .navbar-default, .navbar-brand:focus {
+.navbar a:hover, .navbar-default, .navbar-brand:hover, .navbar-default, .navbar-brand:focus {
   color:white !important;
   text-decoration:underline !important;
 }
